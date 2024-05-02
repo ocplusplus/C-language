@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
+/*
+Prime Number - if integer is larger than 1 it prints out all the prime numbers smaller and equal to it
+*/
 
 void printPrime (unsigned long int number)
 
