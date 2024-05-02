@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-/*String Manipulation - find, replace, remove, palindrome test, and reverse functions */
+/* String Manipulation - find, replace, remove, palindrome test, and reverse functions */
 
 //find char function
 int findChar(char * str, char c1)
