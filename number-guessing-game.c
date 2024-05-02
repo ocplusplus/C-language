@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-/* Number Guessing Game - computer chooses a random numbers and you have 10 guesses to get it. */
+/* Number Guessing Game - computer chooses a random number between 1-100 and you have 10 guesses to get it. */
 
 int random_range(int min, int max) //random number generator function
 {
